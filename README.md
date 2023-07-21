@@ -14,7 +14,7 @@
 
 # Submission Required
 - Github repository link: [*Click Me*](https://github.com/Abhishek-Sharma-007/Food)
-- Github readme file with hosted link
+- Github readme file with hosted link: [**Click Me**](https://abhishek-sharma-007.github.io/Food/)
 - Screenshot of every command that is needed to complete the task
   
   ![1](https://github.com/Abhishek-Sharma-007/Food/assets/84591804/8b0493a1-25b2-4756-9fe7-6f309b55c15c)
@@ -26,3 +26,6 @@
   ![4](https://github.com/Abhishek-Sharma-007/Food/assets/84591804/829d9ab5-857f-475d-b8ef-b7d415eb5680)
 
   ![5](https://github.com/Abhishek-Sharma-007/Food/assets/84591804/16dc4042-1b9d-4b6f-b607-c571a0cd49b0)
+
+  ![image](https://github.com/Abhishek-Sharma-007/Food/assets/84591804/47e332c0-e558-46e3-bde8-907621b916db)
+
